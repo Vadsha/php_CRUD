@@ -1,7 +1,7 @@
 <?php
 
     try{
-        $db = new PDO("mysql:dbname=form;dbhost=localhost","root","vaddshah");
+        $db = new PDO("mysql:dbname=form;dbhost=localhost","root","vaddshah2626");
 
         $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
